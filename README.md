@@ -3,8 +3,11 @@ Class project for web and cloud computing
 
 ### Group members:
 Kristin Bunyan
+
 Jennifer Hoang
+
 Morgan Rosenberg
+
 Nico Vandenhooff
 
 ### Topic
